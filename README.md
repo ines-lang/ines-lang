@@ -25,9 +25,9 @@ I’m a Master’s student in Aerospace Engineering at the Technical University 
 ## 💻 Tech Stack
 
 - **Languages**: Python, MATLAB  
-- **Frameworks**: JAX, PyTorch, TensorFlow, Hugging Face  
-- **Tools**: Git, LaTeX, HDF5
-- **Areas**: Surrogate Modeling, PINNs, Fourier Neural Operators, Numerical Methods
+- **Libraries and Frameworks**: JAX, PyTorch, TensorFlow, Hugging Face  
+- **Tools & Formats**: Git, LaTeX, HDF5
+- **Areas**: Surrogate Modeling, Physics-Informed Neural Networks (PINNs), Fourier Neural Operators (FNOs), Numerical Methods
 
 ## 📫 Reach Me
 
