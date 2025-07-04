@@ -6,7 +6,7 @@ I’m a Master’s student in Aerospace Engineering at the Technical University 
 
 - Scientific Machine Learning & Surrogate Modeling  
 - Physics-Informed Neural Networks (PINNs)  
-- Data generation from physical laws (KS, KdV, Burgers)  
+- Data generation from physical laws (KS, KdV, Burgers, Kolmogorov)  
 - Aerospace systems, CFD, and thermofluids  
 - Writing, art, design, cuisine  
 
@@ -20,7 +20,7 @@ I’m a Master’s student in Aerospace Engineering at the Technical University 
 
 - **CAMO Engineer**, Accenture – Airworthiness of military aircraft fleet (C295, A330 MRTT)
 - **Junior Engineer**, WSP Spain – €350M airport planning project (Palma de Mallorca Airport)   
-- **Private STEM Tutor** and **volunteer** with RED Solidaria and Painting for Others
+- **Private STEM Tutor**
 
 ## 💻 Tech Stack
 
