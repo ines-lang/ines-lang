@@ -1,33 +1,41 @@
 # 👋 Hi, I’m Inés Suárez García (@ines-lang)
 
-I’m a Master’s student in Aerospace Engineering at the Technical University of Munich (TUM), with a strong focus on the computational modeling of physical systems, partial differential equations (PDEs), and machine learning for scientific applications.
+I’m a Master’s student in Aerospace Engineering at the Technical University of Munich (TUM), with a strong interest in safety-critical systems, system-level engineering, and the interaction between computational models, data, and real-world constraints. My background combines technical modeling with experience in regulated and operational aviation environments.
 
 ## 👀 Interests
 
-- Scientific Machine Learning & Surrogate Modeling  
-- Physics-Informed Neural Networks (PINNs)  
-- Data generation from physical laws (KS, KdV, Burgers, Kolmogorov)  
-- Aerospace systems, CFD, and thermofluids  
-- Writing, art, design, cuisine  
+- Aerospace and defense systems  
+- Safety-critical and reliability-driven engineering  
+- System integration, testing, and verification  
+- Data-driven modeling and simulation of physical systems  
+- Scientific machine learning and surrogate modeling  
+- Writing, art, design, and cuisine  
 
 ## 🌱 Currently Learning
 
-- Advanced PDE solvers with JAX and neural operators  
-- German 🇩🇪 (currently A2 at TUM Sprachenzentrum)
-- Webpage design
+- Advanced numerical methods and data-driven modeling for physical systems  
+- Working with imperfect, heterogeneous data under real-world constraints  
+- German 🇩🇪 (currently A2 at TUM Sprachenzentrum)  
+- Webpage and technical documentation design  
 
 ## 💼 Professional Experience
 
-- **CAMO Engineer**, Accenture – Airworthiness of military aircraft fleet (C295, A330 MRTT)
-- **Junior Engineer**, WSP Spain – €350M airport planning project (Palma de Mallorca Airport)   
-- **Private STEM Tutor**
+- **Student Researcher**, TUM Social AI  
+  Contributed to early-stage system design and validation for a remote sensing groundwater detection project, working with satellite data, system limitations, and stakeholder-driven requirements under uncertainty.
+  
+- **CAMO Engineer**, Accenture  
+  Worked on continued airworthiness and maintenance planning for military aircraft fleets (C295, A330 MRTT), supporting documentation, configuration control, and safety-critical processes in regulated environments.
 
-## 💻 Tech Stack
+- **Junior Engineer**, WSP Spain  
+  Contributed to large-scale infrastructure planning (€350M airport expansion project at Palma de Mallorca Airport), gaining exposure to complex systems, stakeholder coordination, and long-term project constraints.
+
+- **Private STEM Tutor**  
+
+## 💻 Technical Skills
 
 - **Languages**: Python, MATLAB  
-- **Libraries and Frameworks**: JAX, PyTorch, TensorFlow, Hugging Face  
-- **Tools & Formats**: Git, LaTeX, HDF5
-- **Areas**: Surrogate Modeling, Physics-Informed Neural Networks (PINNs), Fourier Neural Operators (FNOs), Numerical Methods
+- **Libraries & Frameworks**: JAX, PyTorch, TensorFlow  
+- **Tools & Formats**: Git, LaTeX, HDF5  
 
 ## 📫 Reach Me
 
