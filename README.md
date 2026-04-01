@@ -8,28 +8,24 @@ I’m a Master’s student in Aerospace Engineering at the Technical University 
 - Safety-critical and reliability-driven engineering  
 - System integration, testing, and verification  
 - Data-driven modeling and simulation of physical systems  
-- Scientific machine learning and surrogate modeling  
 - Writing, art, design, and cuisine  
 
 ## 🌱 Currently Learning
 
 - Advanced numerical methods and data-driven modeling for physical systems  
-- Working with imperfect, heterogeneous data under real-world constraints  
-- German 🇩🇪 (currently A2 at TUM Sprachenzentrum)  
+- German 🇩🇪 (currently B1 at TUM Sprachenzentrum)  
 - Webpage and technical documentation design  
 
 ## 💼 Professional Experience
 
 - **Student Researcher**, TUM Social AI  
-  Contributed to early-stage system design and validation for a remote sensing groundwater detection project, working with satellite data, system limitations, and stakeholder-driven requirements under uncertainty.
+  Contributed to early-stage system design for a remote sensing groundwater detection project, working with satellite data, system limitations, and stakeholder-driven requirements under uncertainty.
   
 - **CAMO Engineer**, Accenture  
   Worked on continued airworthiness and maintenance planning for military aircraft fleets (C295, A330 MRTT), supporting documentation, configuration control, and safety-critical processes in regulated environments.
 
 - **Junior Engineer**, WSP Spain  
-  Contributed to large-scale infrastructure planning (€350M airport expansion project at Palma de Mallorca Airport), gaining exposure to complex systems, stakeholder coordination, and long-term project constraints.
-
-- **Private STEM Tutor**  
+  Contributed to large-scale infrastructure planning (€350M airport expansion project at Palma de Mallorca Airport), gaining exposure to complex systems, stakeholder coordination, and long-term project constraints. 
 
 ## 💻 Technical Skills
 
