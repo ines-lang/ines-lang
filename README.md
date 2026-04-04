@@ -12,14 +12,13 @@ I’m a Master’s student in Aerospace Engineering at the Technical University 
 
 ## 🌱 Currently Learning
 
-- Advanced numerical methods and data-driven modeling for physical systems  
 - German 🇩🇪 (currently B1 at TUM Sprachenzentrum)  
-- Webpage and technical documentation design  
+- Webpage design  
 
 ## 💼 Professional Experience
 
 - **Student Researcher**, TUM Social AI  
-  Contributed to early-stage system design for a remote sensing groundwater detection project, working with satellite data, system limitations, and stakeholder-driven requirements under uncertainty.
+  Contributed to system design for a remote sensing groundwater detection project, working with satellite data, system limitations, and stakeholder-driven requirements under uncertainty.
   
 - **CAMO Engineer**, Accenture  
   Worked on continued airworthiness and maintenance planning for military aircraft fleets (C295, A330 MRTT), supporting documentation, configuration control, and safety-critical processes in regulated environments.
@@ -29,7 +28,7 @@ I’m a Master’s student in Aerospace Engineering at the Technical University 
 
 ## 💻 Technical Skills
 
-- **Languages**: Python, MATLAB  
+- **Languages**: Python  
 - **Libraries & Frameworks**: JAX, PyTorch, TensorFlow  
 - **Tools & Formats**: Git, LaTeX, HDF5  
 
